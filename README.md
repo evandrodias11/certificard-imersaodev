@@ -12,7 +12,7 @@ Projetos realizados durante a #imersãodev da alura, com foco em js
 
 <div>
   <h2> 🔍 Dá uma olhada:</h2>
-  <img src="https://user-images.githubusercontent.com/65000871/193034705-3254d8b2-5abb-4121-9af7-919c84a8f425.png" />
+  <img src="https://user-images.githubusercontent.com/65000871/193035911-5850e7e5-d6cb-4af4-8db9-4c840afd7fa8.png" />
   </div>
 <br>
 <p align="center"><a href="https://portfolio-imersaodev.netlify.app/">Projeto aqui</a></p>
